@@ -1,0 +1,32 @@
+Logging to logdir
+********** Iteration 0 ************
+kl too low
+----------------------------
+| EVAfter   | -0.00481     |
+| EVBefore  | -0.00481     |
+| EpLenMean | 117          |
+| EpRewMean | -113         |
+| EpRewSEM  | 45.5         |
+| KL        | 5.160985e-07 |
+----------------------------
+********** Iteration 1 ************
+kl too high
+---------------------------
+| EVAfter   | -0.00585    |
+| EVBefore  | -0.00585    |
+| EpLenMean | 102         |
+| EpRewMean | -110        |
+| EpRewSEM  | 40.8        |
+| KL        | 0.004160494 |
+---------------------------
+********** Iteration 2 ************
+kl just right!
+----------------------------
+| EVAfter   | -0.00535     |
+| EVBefore  | -0.00535     |
+| EpLenMean | 193          |
+| EpRewMean | -207         |
+| EpRewSEM  | 95.8         |
+| KL        | 0.0027297086 |
+----------------------------
+********** Iteration 3 ************
